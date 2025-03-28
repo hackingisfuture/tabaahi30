@@ -2,7 +2,7 @@
 - [ ] **Setup for Android Testing**  
 - [ ] **Spend 90 Minutes Working on Epic Games**  
 - [ ] **4 Hours of Deep Work on Private Program**  
-- [ ] **Spend 2 Hours Learning Related to Private Research**  
+- [ ] **Spend 1 Hours Learning Related to Private Research**  
 - [ ] **GYM**  
 
 ---
@@ -40,6 +40,10 @@
 ### **Spend 90 Minutes Working on Epic Games**  
 - [ ] **3:00 PM to 3:45 PM**  
 - [ ] **4:00 PM to 4:45 PM**  
+
+---
+
+## **Evening - 6:00 PM to 7:00 PM**  
 
 ### **Learning (Private Research)**  
 - [ ] **6:00 PM to 7:00 PM**  
