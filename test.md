@@ -30,11 +30,6 @@
 - [ ] **Front Raises** – 3 sets  
 - [ ] **Rear Delt Fly (Machine or Dumbbell)** – 3 sets  
 
-#### **10:00 AM to 12:00 PM**  
-- [ ] **Shower**  
-- [ ] **Eat**  
-- [ ] **Rest**  
-
 ---
 
 ## **Afternoon - 12:00 PM to 6:00 PM**  
